@@ -8,11 +8,11 @@
  npm run decode -- -t type [-i input.js] [-o output.js]
 
 type 的意思：
-* common (高频局部混淆)
-* jjencode (sojson.com 版本)
-* sojson
-* sojsonv7
-* obfuscator
+* common (高频局部的混淆)
+* jjencode  (sojson.com 版本)
+* sojson  （jsjiami.v6 版本）
+* sojsonv7 （jsjiami.v7 版本）
+* obfuscator  （市面上通用加密）
 
 1.文件中不能包含除混淆代码以外的内容（非混淆代码）
 
