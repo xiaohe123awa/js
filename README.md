@@ -22,6 +22,9 @@
 * 默认输出 ——> 文件为`output.js`
 
 ## 图示
+
+jsjiami.com.v7 版本  👉  https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/PDFexpert.js
+
 ![Preview](./xx/1.jpg)
 👇
 ![Preview](./xx/2.jpg)
