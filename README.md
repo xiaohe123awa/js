@@ -4,13 +4,10 @@
   
 2. `npm i`安装依赖
    
-3. 运行插件：终端执行 ——> npm run xxx
+3. 终端执行：
+ npm run decode -- -t type [-i input.js] [-o output.js]
 
-或者   npm run decode -- -t type [-i input.js] [-o output.js]
-
-
-
-`type`的意思：
+type 的意思：
 * common (高频局部混淆)
 * jjencode (sojson.com 版本)
 * sojson
