@@ -1,6 +1,6 @@
 ## 使用
 
-1. 安装 Node.js 环境 
+1. 安装 Node.js 环境 ——> [Node.js](https://nodejs.org/zh-cn/download/prebuilt-installer)
   
 2. `npm i`安装依赖
    
