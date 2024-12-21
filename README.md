@@ -21,4 +21,4 @@
 2、默认输出文件为`output.js`
 
 
-例如:   node src/main.js -t sojson -i input.js -o output.js
+例如:   node src/main.js -t sojsonv7 -i input.js -o output.js
