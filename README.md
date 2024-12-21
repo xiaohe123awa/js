@@ -14,8 +14,9 @@ type 的意思：
 * sojsonv7
 * obfuscator
 
-1、文件中不能包含除混淆代码以外的内容（非混淆代码）
-2、默认输出文件为`output.js`
+1.文件中不能包含除混淆代码以外的内容（非混淆代码）
+
+2.默认输出文件为`output.js`
 
 
 例如:   node src/main.js -t sojsonv7 -i input.js -o output.js
