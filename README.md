@@ -25,7 +25,9 @@ node src/main.js -t sojsonv7 -i input.js -o output.js
 <details>
 <summary>点击 ——> 查看详细内容</summary>
 注意:
+
 * 文件中不能包含除混淆代码以外的内容（非混淆代码）
+
 * 默认输出 ——> 文件为`output.js`
 </details> 
 
