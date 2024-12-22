@@ -3,7 +3,10 @@
 1. 安装 Node.js 环境 ——> [Node.js](https://nodejs.org/zh-cn/download/prebuilt-installer)
   
 2. 终端执行:
-           安装依赖  ——> npm i
+           安装依赖  ——> 
+```bash
+npm i
+```
 ### 下载链接 [js-main.zip](https://github.com/pxx917144686/js/archive/refs/heads/main.zip)
 ### 解压 `js-main.zip`
 ## 终端执行：
