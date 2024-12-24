@@ -1,3 +1,8 @@
+[![Preview](./xx/4.png)](https://pxx917144686.github.io/pxxjs/)
+https://pxx917144686.github.io/pxxjs
+
+
+
 ## 使用
 
 1. 安装 Node.js 环境 ——> [Node.js](https://nodejs.org/zh-cn/download/prebuilt-installer)
